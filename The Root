@@ -1,0 +1,2 @@
+Got a basic explanation of absolute directories -> where one starts with root directory.
+To achieve the flag I used /pwn to refer to the absolute directory.
