@@ -1,0 +1,3 @@
+In this task, we were asked to use commands with arguments like echo Hello World, which returns whatever commands are passed after echo to the terminal, thereby giving an output of Hello World.
+We even tried echo Hello Hackers! which returned Hello Hackers! in the terminal.
+To achieve the flag I passed hello hackers which returned hello hackers in the terminal.
