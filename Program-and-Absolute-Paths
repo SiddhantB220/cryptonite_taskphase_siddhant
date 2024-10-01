@@ -1,0 +1,2 @@
+Accessing the run level which is located within the challenge directory.
+To achieve the flag, we need to type /challenge/run which is the absolute directory of the run file.
