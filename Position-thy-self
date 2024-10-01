@@ -1,0 +1,7 @@
+Learnt a new command cd (change directory) which allows one to navigate around the current working directory.
+~ represents where the current shell is located at.
+To achieve the flag, I tried cd /challenge/run which was incorrected.
+This gave me the correct address to change directory (which was /usr/share/build-essential directory).
+I then used cd /usr/share/build-essential directory.
+The current working directory shifted to that directory which contained /challenge/run, giving me the flag.
+
