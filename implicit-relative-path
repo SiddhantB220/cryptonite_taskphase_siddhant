@@ -1,0 +1,6 @@
+As a safety feature, linux does not run naked paths to prevent searching for programs having the same name as core system utilities (the fundamental tools that make up a Linux system).
+This error will come--> bash: run: command not found
+Hence, we have to explicitly tell the terminal to search for the directory via the .
+
+To acchieve the flag I did cd /challenge.
+then to explicitly change the flow to run, I did ./run => relative path.
