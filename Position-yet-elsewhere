@@ -1,0 +1,3 @@
+Continuation on the cd command
+I used /challenge/run which told me the correct directory (/var directory).
+I re ran /challenge/run which gave me the flag.
