@@ -1,0 +1,9 @@
+Learnt a new concept: Relative Paths 
+Relative paths do not start with / and are realtive to the given current working directory (cwd).
+../challenge/run is a new concept where .. refers to the Parent Directory.
+
+An example of relative paths=> (let us assume that / is the cwd then myfile/task1 will be the file relative to it (within it's level)).
+
+I started the task by doing /challenge/run which told me the cwd to cd to (/).
+cd / took me to the required cwd (/).
+Then I inputted challenge/run which is the relative path to the cwd (/).
