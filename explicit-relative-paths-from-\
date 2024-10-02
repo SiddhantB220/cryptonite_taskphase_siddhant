@@ -1,0 +1,10 @@
+Previously the implict relative path refers to a directly specified path which we had to descend into from the cwd (it is called as naked).
+In Explicit relative path, we can move between different directories in the same level 
+. refers to same level directory and .. refers to parent directory.
+
+eg-
+/././challenge/./././. =>absolute path
+././challenge => relative path
+
+To recieve the flag, I changed directory to / using cd /
+To refer to the relative path of challenge/run I used ./challenge/run to change flow within the same directory level (/).
