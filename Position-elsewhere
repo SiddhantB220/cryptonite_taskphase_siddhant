@@ -1,0 +1,5 @@
+Continuation on using the cd command.
+I started with /challenge/run which then gave me an error saying that no such directory found (it also gave the correct directory to change directory to /sys/kernel)
+Then I did cd /sys/kernel
+cd /challenge/run
+
